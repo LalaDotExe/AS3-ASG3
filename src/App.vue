@@ -6,7 +6,7 @@ import HelloWorld from "./components/HelloWorld.vue";
   <header
     class="bg-gray-800 text-white py-4 px-6 flex justify-between items-center"
   >
-    <h1>Akmal Shafie</h1>
+    <h1>My Blog</h1>
     <p>Student At Politeknik Brunei</p>
   </header>
 
@@ -18,17 +18,25 @@ import HelloWorld from "./components/HelloWorld.vue";
       crossorigin="anonymous"
     />
     <div>
-      <h2 class="text-xl font-bold">John Doe</h2>
-      <p class="text-zinc-600">Computer Science Student</p>
-      <p class="text-zinc-600">University of ABC</p>
+      <h2 class="text-xl font-bold">Akmal Shafiee</h2>
+      <p class="text-zinc-600">Diploma In Website Development</p>
+      <p class="text-zinc-600">Politeknik Brunei</p>
     </div>
   </div>
 
   <div class="py-4 px-6">
     <h2 class="text-lg font-bold mb-4">About Me</h2>
     <div class="bg-white dark:bg-zinc-300 p-4 rounded-lg shadow-md">
-      <h3 class="text-lg font-bold mb-2">Hobbies</h3>
-      <p class="text-zinc-600">Description</p>
+      <p class="text-zinc-600">
+        Assalamualaikum, miss. My name is Mohammad Akmal Shafie'e Bin Roslan,
+        and my course is Diploma in Website Development. My most recent college
+        experience was at IBTE SSRC, where I studied HNtec in Information
+        Technology. My hobbies are mainly exploring or traveling the world, but
+        I also enjoy hiking and gaming in my leisure time. Good communication
+        skills are essential not just in everyday life, but also in the job and
+        in business. Insyallah, during the next ten years, I will gain
+        confidence and financial independence.
+      </p>
     </div>
   </div>
 
@@ -36,11 +44,17 @@ import HelloWorld from "./components/HelloWorld.vue";
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
       <div class="bg-white dark:bg-zinc-300 p-4 rounded-lg shadow-md">
         <h3 class="text-lg font-bold mb-2">Hobbies</h3>
-        <p class="text-zinc-600">Description</p>
+        <p class="text-zinc-600">
+          mainly exploring or traveling the world, but I also enjoy hiking and
+          gaming in my leisure time.
+        </p>
       </div>
       <div class="bg-white dark:bg-zinc-300 p-4 rounded-lg shadow-md">
-        <h3 class="text-lg font-bold mb-2">Skills</h3>
-        <p class="text-zinc-600">Description</p>
+        <h3 class="text-lg font-bold mb-2">Interest</h3>
+        <p class="text-zinc-600">Music</p>
+        <p class="text-zinc-600">Photography</p>
+        <p class="text-zinc-600">Travel</p>
+        <p class="text-zinc-600">Video Gaming</p>
       </div>
     </div>
   </div>
