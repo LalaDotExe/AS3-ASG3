@@ -14,7 +14,7 @@ import HelloWorld from "./components/HelloWorld.vue";
     <img
       src="./assets/Akmal.JPG"
       alt="Profile Picture"
-      class="w-32 h-32 rounded-full object-contain shadow-md mb-4 md:mr-4"
+      class="w-32 h-32 rounded-full object-cover shadow-md mb-4 md:mr-4"
       crossorigin="anonymous"
     />
     <div>
