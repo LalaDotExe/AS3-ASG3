@@ -7,7 +7,7 @@ import HelloWorld from "./components/HelloWorld.vue";
     class="bg-gray-800 text-white py-4 px-6 flex justify-between items-center"
   >
     <h1>My Blog</h1>
-    <p>Student At Politeknik Brunei</p>
+    <p>😉</p>
   </header>
 
   <div class="flex flex-col md:flex-row items-center py-4 px-6">
@@ -58,6 +58,9 @@ import HelloWorld from "./components/HelloWorld.vue";
       </div>
     </div>
   </div>
+
+  <br />
+  <br />
 
   <footer class="bg-gray-800 text-white py-4 fixed bottom-0 w-full">
     <div class="container mx-auto text-center">© 2024 Akmal Shafie</div>
