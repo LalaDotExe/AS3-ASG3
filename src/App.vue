@@ -23,6 +23,27 @@ import HelloWorld from "./components/HelloWorld.vue";
       <p class="text-zinc-600">University of ABC</p>
     </div>
   </div>
+
+  <div class="py-4 px-6">
+    <h2 class="text-lg font-bold mb-4">About Me</h2>
+    <div class="bg-white dark:bg-zinc-300 p-4 rounded-lg shadow-md">
+      <h3 class="text-lg font-bold mb-2">Hobbies</h3>
+      <p class="text-zinc-600">Description</p>
+    </div>
+  </div>
+
+  <div class="mb-8 py-4 px-6">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <div class="bg-white dark:bg-zinc-300 p-4 rounded-lg shadow-md">
+        <h3 class="text-lg font-bold mb-2">Hobbies</h3>
+        <p class="text-zinc-600">Description</p>
+      </div>
+      <div class="bg-white dark:bg-zinc-300 p-4 rounded-lg shadow-md">
+        <h3 class="text-lg font-bold mb-2">Skills</h3>
+        <p class="text-zinc-600">Description</p>
+      </div>
+    </div>
+  </div>
 </template>
 
 <style scoped></style>
