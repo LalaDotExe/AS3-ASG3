@@ -59,7 +59,7 @@ import HelloWorld from "./components/HelloWorld.vue";
   </div>
 
   <footer class="bg-gray-800 text-white py-4 fixed bottom-0 w-full">
-    <div class="container mx-auto text-center">© 2023 Student Portfolio</div>
+    <div class="container mx-auto text-center">© 2024 Akmal Shafie</div>
   </footer>
 </template>
 
