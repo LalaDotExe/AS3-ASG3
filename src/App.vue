@@ -3,7 +3,12 @@ import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
-  <h1 className="text-4xl font-bold underline">Hello world!</h1>
+  <header
+    class="bg-gray-800 text-white py-4 px-6 flex justify-between items-center"
+  >
+    <h1>Akmal Shafie</h1>
+    <p>Student At Politeknik Brunei</p>
+  </header>
 </template>
 
 <style scoped></style>
