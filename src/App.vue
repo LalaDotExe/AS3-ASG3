@@ -10,7 +10,7 @@ import HelloWorld from "./components/HelloWorld.vue";
     <p>😉</p>
   </header>
 
-  <div class="flex flex-col md:flex-row items-center py-4 px-6">
+  <div class="flex flex-col md:flex-row items-center py-6 px-6">
     <img
       src="./assets/Akmal.JPG"
       alt="Profile Picture"
