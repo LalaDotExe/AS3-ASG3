@@ -31,11 +31,10 @@ import HelloWorld from "./components/HelloWorld.vue";
         Assalamualaikum, miss. My name is Mohammad Akmal Shafie'e Bin Roslan,
         and my course is Diploma in Website Development. My most recent college
         experience was at IBTE SSRC, where I studied HNtec in Information
-        Technology. My hobbies are mainly exploring or traveling the world, but
-        I also enjoy hiking and gaming in my leisure time. Good communication
-        skills are essential not just in everyday life, but also in the job and
-        in business. Insyallah, during the next ten years, I will gain
-        confidence and financial independence.
+        Technology. Overall my experience in coding has been improving over the
+        years Alhamdulilah. Good communication skills are essential not just in
+        everyday life, but also in the job and in business. Insyallah, during
+        the next ten years, I will gain confidence and financial independence.
       </p>
     </div>
   </div>
@@ -45,16 +44,16 @@ import HelloWorld from "./components/HelloWorld.vue";
       <div class="bg-white dark:bg-zinc-300 p-4 rounded-lg shadow-md">
         <h3 class="text-lg font-bold mb-2">Hobbies</h3>
         <p class="text-zinc-600">
-          mainly exploring or traveling the world, but I also enjoy hiking and
-          gaming in my leisure time.
+          Mainly exploring or traveling the world, but I also enjoy hiking and
+          gaming in my leisure time. I also enjoy photography and music.
         </p>
       </div>
       <div class="bg-white dark:bg-zinc-300 p-4 rounded-lg shadow-md">
         <h3 class="text-lg font-bold mb-2">Interest</h3>
-        <p class="text-zinc-600">Music</p>
-        <p class="text-zinc-600">Photography</p>
-        <p class="text-zinc-600">Travel</p>
-        <p class="text-zinc-600">Video Gaming</p>
+        <li class="text-zinc-600">Music</li>
+        <li class="text-zinc-600">Photography</li>
+        <li class="text-zinc-600">Travel</li>
+        <li class="text-zinc-600">Video Gaming</li>
       </div>
     </div>
   </div>
