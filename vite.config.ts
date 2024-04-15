@@ -3,7 +3,7 @@ import vue from "@vitejs/plugin-vue";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Akmallala/",
+  base: "/AS3-ASG3/",
   plugins: [vue()],
   assetsInclude: ["**/*.JPG"],
 });
