@@ -1,6 +1,3 @@
-<script setup lang="ts">
-import profileimg from "./assets/Akmal.JPG";
-</script>
 
 <template>
   <header
@@ -12,7 +9,7 @@ import profileimg from "./assets/Akmal.JPG";
 
   <div class="flex flex-col md:flex-row items-center py-6 px-6">
     <img
-      :src="profileimg"
+      src="./assets/Akmal.JPG"
       alt="Profile Picture"
       class="w-32 h-32 rounded-full object-cover shadow-md mb-4 md:mr-4"
       crossorigin="anonymous"
