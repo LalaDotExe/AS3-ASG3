@@ -9,7 +9,7 @@
 
   <div class="flex flex-col md:flex-row items-center py-6 px-6">
     <img
-      src="./assets/Akmal.jpeg"
+      src="./assets/Akmal.jpg"
       alt="Profile Picture"
       class="w-32 h-32 rounded-full object-cover shadow-md mb-4 md:mr-4"
       crossorigin="anonymous"
