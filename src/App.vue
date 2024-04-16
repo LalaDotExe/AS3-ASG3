@@ -22,7 +22,7 @@
   </div>
 
   <div class="py-4 px-6">
-    <h2 class="text-lg font-bold mb-4">About Me</h2>
+    <h2 class="text-lg font-bold mb-4">Hello</h2>
     <div class="bg-white dark:bg-zinc-300 p-4 rounded-lg shadow-md">
       <p class="text-zinc-600">
         Hello, My name is Mohammad Akmal Shafie'e Bin Roslan, and my course is
